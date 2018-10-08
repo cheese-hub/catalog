@@ -10,7 +10,7 @@
     "ports": [
         {
             "port": 5000,
-            "protocol": "http",
+            "protocol": "https",
             "contextPath": "/"
         }
     ],
