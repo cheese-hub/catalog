@@ -9,23 +9,23 @@
     "access": "external",
     "ports": [
         {
-            "port": 5000,
-            "protocol": "http",
+            "port": 443,
+            "protocol": "https",
             "contextPath": "/"
         }
     ],
     "readinessProbe": {
         "type": "tcp",
         "path": "",
-        "port": 5000,
+        "port": 443,
         "initialDelay": 30,
         "timeout": 500
     },
     "resourceLimits": {
         "cpuMax": 100,
         "cpuDefault": 100,
-        "memMax": 512,
-        "memDefault": 128
+        "memMax": 100,
+        "memDefault": 50
     },
 	"authRequired": true,
     "info": "https://github.com/rkalyanapurdue/heartbleed/tree/master/heartbleed-server"
