@@ -9,15 +9,15 @@
     "access": "external",
     "ports": [
         {
-            "port": 443,
-            "protocol": "https",
+            "port": 80,
+            "protocol": "http",
             "contextPath": "/"
         }
     ],
     "readinessProbe": {
         "type": "tcp",
         "path": "",
-        "port": 443,
+        "port": 80,
         "initialDelay": 30,
         "timeout": 500
     },
