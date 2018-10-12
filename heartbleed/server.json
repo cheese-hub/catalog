@@ -27,6 +27,6 @@
         "memMax": 100,
         "memDefault": 50
     },
-	"authRequired": true,
+	"authRequired": false,
     "info": "https://github.com/rkalyanapurdue/heartbleed/tree/master/heartbleed-server"
 }
