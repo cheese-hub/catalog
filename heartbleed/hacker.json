@@ -12,16 +12,15 @@
         {
             "key": "heartbleedserver",
             "required": true
-        }
+        },
+	{
+	    "key": "heartbleedvictim",
+	    "required": true
+	}
     ],
     "ports": [
         {
             "port": 80,
-            "protocol": "http",
-            "contextPath": "/"
-        },
-        {
-            "port": 8888,
             "protocol": "http",
             "contextPath": "/"
         }

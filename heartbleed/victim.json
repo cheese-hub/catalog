@@ -1,22 +1,19 @@
 {
-    "key": "heartbleedserver",
-    "label": "HeartBleed Server",
-    "description": "",
+    "key": "heartbleedvictim",
+    "label": "HeartBleed Victim",
+    "description": "Demonstration of the HeartBleed bug in the OpenSSL library",
     "logo": "/asset/png/logos/ndslabs-badge.png",
     "image": {
-        "name": "rkalyana/heartbleed-server"
+        "name": "rkalyana/heartbleed-victim"
     },
+    "display": "stack",
     "access": "external",
     "ports": [
         {
             "port": 80,
             "protocol": "http",
             "contextPath": "/"
-        },
-	{
-	    "port": 443,
-	    "protocol": "https",
-	    "contextPath": "/"
+        }
     ],
     "readinessProbe": {
         "type": "tcp",
@@ -26,11 +23,11 @@
         "timeout": 500
     },
     "resourceLimits": {
-        "cpuMax": 100,
+        "cpuMax": 1000,
         "cpuDefault": 100,
-        "memMax": 100,
-        "memDefault": 50
+        "memMax": 4096,
+        "memDefault": 100
     },
-	"authRequired": false,
-    "info": "https://github.com/rkalyanapurdue/heartbleed/tree/master/heartbleed-server"
+	"authRequired": true,
+    "info": "https://github.com/rkalyanapurdue/heartbleed/tree/master/heartbleed-victim"
 }
