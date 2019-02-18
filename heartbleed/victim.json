@@ -6,7 +6,6 @@
     "image": {
         "name": "rkalyana/heartbleed-victim"
     },
-    "display": "stack",
     "access": "external",
     "ports": [
         {
