@@ -13,10 +13,6 @@
             "protocol": "http",
             "contextPath": "/"
         },
-	{
-	    "port": 443,
-	    "protocol": "https",
-	    "contextPath": "/"
     ],
     "readinessProbe": {
         "type": "tcp",
