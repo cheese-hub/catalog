@@ -32,5 +32,5 @@
     },
 	"privileged": true,
 	"authRequired": true,
-    "info": "https://github.com/rkalyanapurdue/cheese/tree/master/SQLInjection"
+    "info": "https://github.com/cheese-hub/sqlinjection"
 }
