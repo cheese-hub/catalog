@@ -6,14 +6,7 @@
     "image": {
         "name": "rkalyana/heartbleed-server"
     },
-    "access": "external",
-    "ports": [
-        {
-            "port": 80,
-            "protocol": "http",
-            "contextPath": "/"
-        },
-    ],
+    "access": "internal",
     "readinessProbe": {
         "type": "tcp",
         "path": "",
