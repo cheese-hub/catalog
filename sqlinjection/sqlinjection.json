@@ -2,9 +2,10 @@
     "key": "sqlinjection",
     "label": "SQL Injection",
     "description": "Demonstration of an SQL injection attack and fix",
-    "logo": "/asset/png/logos/ndslabs-badge.png",
+    "logo": "/asset/png/logos/sql.png",
     "image": {
-        "name": "rkalyana/sqlinjection"
+        "name": "rkalyana/sqlinjection",
+        "tags": ["latest"]
     },
     "display": "stack",
     "access": "external",
@@ -32,5 +33,5 @@
     },
 	"privileged": true,
 	"authRequired": true,
-    "info": "https://github.com/cheese-hub/sqlinjection"
+    "info": "https://github.com/cheese-hub/sqlinjection/blob/master/README.md"
 }

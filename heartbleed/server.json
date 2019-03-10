@@ -4,7 +4,8 @@
     "description": "",
     "logo": "/asset/png/logos/ndslabs-badge.png",
     "image": {
-        "name": "rkalyana/heartbleed-server"
+        "name": "rkalyana/heartbleed-server",
+        "tags": ["latest"]
     },
     "access": "internal",
     "readinessProbe": {
