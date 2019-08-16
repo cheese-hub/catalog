@@ -40,5 +40,6 @@
     },
 	"privileged": true,
 	"authRequired": true,
+    "collocate": true,
     "info": "https://github.com/cheese-hub/arpspoof/tree/master/hacker-notebook"
 }

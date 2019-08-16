@@ -28,5 +28,6 @@
         "memDefault": 100 
     },
 	"authRequired": true,
+    "collocate": true,
     "info": "https://github.com/cheese-hub/arpspoof/tree/master/victim-vnc"
 }
