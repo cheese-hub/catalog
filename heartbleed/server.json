@@ -6,18 +6,11 @@
     "image": {
         "name": "rkalyana/heartbleed-server"
     },
-    "access": "external",
-    "ports": [
-        {
-            "port": 5000,
-            "protocol": "http",
-            "contextPath": "/"
-        }
-    ],
+    "access": "internal",
     "readinessProbe": {
         "type": "tcp",
         "path": "",
-        "port": 5000,
+        "port": 80,
         "initialDelay": 30,
         "timeout": 500
     },
@@ -27,6 +20,6 @@
         "memMax": 100,
         "memDefault": 50
     },
-	"authRequired": true,
+	"authRequired": false,
     "info": "https://github.com/rkalyanapurdue/heartbleed/tree/master/heartbleed-server"
 }

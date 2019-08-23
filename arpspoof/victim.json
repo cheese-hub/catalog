@@ -28,5 +28,5 @@
         "memDefault": 100 
     },
 	"authRequired": true,
-    "info": "https://gitlab.com/rkalyana/trycybsi/blob/master/containers/ArpSpoof"
+    "info": "https://github.com/cheese-hub/arpspoof/tree/master/victim-vnc"
 }
