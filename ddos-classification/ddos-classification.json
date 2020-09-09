@@ -28,7 +28,7 @@
         "cpuMax": 1000,
         "cpuDefault": 100,
         "memMax": 2048,
-        "memDefault": 1024
+        "memDefault": 2048
     },
     "authRequired": true,
     "info": "https://cheese-hub.github.io/machine-learning/01-ddos-classification/index.html"
