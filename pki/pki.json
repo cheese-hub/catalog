@@ -2,7 +2,7 @@
     "key": "pki",
     "label": "Public Key Infrastructure",
     "description": "Demonstration of PKI and its use in defeating man-in-the-middle attacks",
-    "logo": "/asset/png/logos/ndslabs-badge.png",
+    "logo": "/ndslabs-badge.png",
     "image": {
         "name": "liux0614/pki"
     },

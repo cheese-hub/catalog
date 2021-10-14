@@ -2,7 +2,7 @@
     "key": "sqlinjection",
     "label": "SQL Injection",
     "description": "Demonstration of an SQL injection attack and fix",
-    "logo": "/asset/png/logos/ndslabs-badge.png",
+    "logo": "/ndslabs-badge.png",
     "image": {
         "name": "rkalyana/sqlinjection"
     },

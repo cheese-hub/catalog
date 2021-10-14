@@ -2,7 +2,7 @@
     "key": "honeypotserver",
     "label": "SSH Honeypot",
     "description": "Demonstration of an SSH Honeypot",
-    "logo": "/asset/png/logos/ndslabs-badge.png",
+    "logo": "/ndslabs-badge.png",
     "image": {
         "name": "rkalyana/honeypot-server",
         "tags": ["latest"]

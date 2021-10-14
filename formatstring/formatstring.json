@@ -2,7 +2,7 @@
     "key": "formatstring",
     "label": "Format String Vulnerability",
     "description": "Demonstration of the Format String Vulnerability",
-    "logo": "/asset/png/logos/ndslabs-badge.png",
+    "logo": "/ndslabs-badge.png",
     "image": {
         "name": "liux0614/formatstring"
     },

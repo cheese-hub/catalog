@@ -2,7 +2,7 @@
     "key": "ddos-classification",
     "label": "DDoS Traffic Classification",
     "description": "Demonstration of simple machine learning analysis of simulated DDoS attack network traffic data",
-    "logo": "/asset/png/logos/ndslabs-badge.png",
+    "logo": "/ndslabs-badge.png",
     "image": {
         "name": "rkalyana/ddos-classification"
     },
