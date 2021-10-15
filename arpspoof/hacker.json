@@ -44,6 +44,7 @@
             "add": ["NET_ADMIN"]
         } 
     },
+    "tags": ["2","2000"],
     "authRequired": true,
     "collocate": true,
     "info": "https://cheese-hub.github.io/network-security/02-arpspoof/index.html"

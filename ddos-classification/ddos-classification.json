@@ -30,6 +30,7 @@
         "memMax": 2048,
         "memDefault": 2048
     },
+    "tags": ["3","2000"],
     "authRequired": true,
     "info": "https://cheese-hub.github.io/machine-learning/02-ddos-classification/index.html"
 }

@@ -30,6 +30,7 @@
         "memMax": 1024,
         "memDefault": 512
     },
+    "tags": ["1","1400"],
     "authRequired": true,
     "info": "https://cheese-hub.github.io/cryptography/01-passwordcracking/index.html"
 }

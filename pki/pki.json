@@ -30,6 +30,7 @@
         "memMax": 1024,
         "memDefault": 512
     },
+    "tags": ["1","1000"],
     "authRequired": true,
     "info": "https://cheese-hub.github.io/cryptography/03-pki/index.html"
 }

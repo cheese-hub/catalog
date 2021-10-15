@@ -21,6 +21,7 @@
         "memMax": 512,
         "memDefault": 256
     },
+    "tags": ["2","1000"],
 	"authRequired": true,
     "info": "https://cheese-hub.github.io/network-security/04-ssh-honeypot/index.html"
 }
