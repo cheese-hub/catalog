@@ -15,7 +15,7 @@
             "id": "3",
             "definition": "Analysis of network security data using machine learning",
             "name": "Machine Learning"
-        }
+        },
         {
             "id": "4",
             "definition": "Demonstrations / exploits that target source code vulnerabilities.",
