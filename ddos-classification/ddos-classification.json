@@ -1,5 +1,5 @@
 {
-    "key": "ddos-classification",
+    "key": "ddosclassification",
     "label": "DDoS Traffic Classification",
     "description": "Demonstration of simple machine learning analysis of simulated DDoS attack network traffic data",
     "logo": "/ndslabs-badge.png",
