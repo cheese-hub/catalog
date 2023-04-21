@@ -1,0 +1,24 @@
+{
+    "key": "HeapOverflow",
+    "label": "HeapOverflow",
+    "display": "standalone",
+    "access": "external",
+    "image": {
+        "name": "heapoverflow",
+        "tags": [
+            "latest"
+        ]
+    },
+    "logo": "",
+    "info": "",
+    "depends": [],
+    "config": [],
+    "ports": [],
+    "volumeMounts": [],
+    "additionalResources": [],
+    "repositories": [],
+    "command": [],
+    "args": [],
+    "catalog": "user",
+    "tags": []
+}
