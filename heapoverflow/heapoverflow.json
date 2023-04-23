@@ -1,7 +1,7 @@
 {
     "key": "heapoverflow",
     "label": "HeapOverflow",
-    "display": "standalone",
+    "display": "stack",
     "access": "external",
     "image": {
         "name": "cheesehub/heap-overflow",
