@@ -17,7 +17,7 @@
     "volumeMounts": [],
     "additionalResources": [],
     "repositories": [],
-    "command": [],
+    "command": [ "/bin/sh", "-c", "while true; do sleep 30; done;" ],
     "args": [],
     "catalog": "system",
     "tags": []
