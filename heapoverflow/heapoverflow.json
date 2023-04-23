@@ -2,7 +2,7 @@
     "key": "heapoverflow",
     "label": "HeapOverflow",
     "display": "stack",
-    "access": "external",
+    "access": "none",
     "image": {
         "name": "cheesehub/heap-overflow",
         "tags": [
