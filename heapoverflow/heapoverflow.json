@@ -4,7 +4,7 @@
     "display": "standalone",
     "access": "external",
     "image": {
-        "name": "heapoverflow",
+        "name": "cheesehub/heap-overflow",
         "tags": [
             "latest"
         ]
