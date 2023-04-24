@@ -1,6 +1,7 @@
 {
     "key": "heapoverflow",
     "label": "HeapOverflow",
+    "description": "Demonstration of using heap overflow to achieve arbitrary code execution",
     "display": "stack",
     "access": "none",
     "image": {
