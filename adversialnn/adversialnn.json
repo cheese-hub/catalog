@@ -1,0 +1,43 @@
+{
+    "key": "adversialnn",
+    "label": "Adversial Neural Network",
+    "display": "stack",
+    "access": "external",
+    "image": {
+        "name": "siddharthph/adversialnn",
+        "tags": [
+            "latest"
+        ]
+    },
+    "logo": "",
+    "info": "",
+    "depends": [],
+    "config": [],
+    "ports": [
+        {
+            "protocol": "http",
+            "port": 8888,
+            "contextPath": ""
+        }
+    ],
+    "readinessProbe": {
+        "type": "tcp",
+        "path": "",
+        "port": 8888,
+        "initialDelay": 30,
+        "timeout": 500
+    },
+    "resourceLimits": {
+        "cpuMax": 1000,
+        "cpuDefault": 100,
+        "memMax": 2048,
+        "memDefault": 2048
+    },
+    "volumeMounts": [],
+    "additionalResources": [],
+    "repositories": [],
+    "command": [],
+    "args": [],
+    "catalog": "user",
+    "tags": []
+}
