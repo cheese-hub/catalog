@@ -1,0 +1,29 @@
+{
+    "key": "adversarialnn",
+    "label": "",
+    "display": "stack",
+    "access": "external",
+    "image": {
+        "name": "siddharthph/adversarial_nn",
+        "tags": [
+            "latest"
+        ]
+    },
+    "logo": "/ndslabs-badge.png",
+    "info": "",
+    "depends": [],
+    "config": [],
+    "ports": [
+{
+            "port": 8888,
+            "protocol": "http",
+            "contextPath": "/"
+        }],
+    "volumeMounts": [],
+    "additionalResources": [],
+    "repositories": [],
+    "command": [],
+    "args": [],
+    "catalog": "user",
+    "tags": []
+}
