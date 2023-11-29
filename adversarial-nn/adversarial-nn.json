@@ -1,5 +1,5 @@
 {
-    "key": "adversarial-nn"
+    "key": "adversarialnn",
     "label": "Adversarial Neural Network Attack",
     "description": "Demonstration of adversarial attacks on a neural network trained on a dataset of handwritten digits",
     "logo": "/ndslabs-badge.png",
